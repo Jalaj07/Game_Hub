@@ -16,6 +16,10 @@ const GameCard = ({ game }: Props) => {
       </CardBody>
     </Card>
   );
+<<<<<<< HEAD
 }; 
+=======
+};
+>>>>>>> ae6957df5b3e97980874859f7674fbfe7a75ff80
 
 export default GameCard;
