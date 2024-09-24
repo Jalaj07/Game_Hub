@@ -39,7 +39,7 @@ const GenreList = ({ selectedGenre, onSelectGenre }: Props) => {
                 textAlign="left"
                 fontWeight={genres.id === selectedGenre?.id ? "bold" : "normal"}
                 onClick={() => onSelectGenre(genres)}
-                fontSize="lg"
+                fontSize="lg" 
                 variant="link"
               >
                 {genres.name}
