@@ -1,19 +1,19 @@
-# Game Hub
+# Game Hub 🎮
 
 **Game Hub** is a powerful and user-friendly web app designed to help gamers discover new and exciting games across multiple genres and platforms. Whether you’re looking for the latest indie hits or AAA blockbusters, Game Hub has got you covered. Engage with the community, stay updated on gaming news, and make informed choices with user reviews.
 
-## Deployed Site
+## Deployed Site ➡️
 
 Deployed Site address: [Game Hub](https://game-hub-jalaj.vercel.app/)
 
-## Features
+## Features 🪶
 
 - **Game Library**: Browse and discover a vast collection of games. Use filters to search by platform, genre, release date, and more.
 - **Community Forum**: Connect with like-minded gamers, share tips, discuss strategies, and participate in ongoing discussions. Moderated to maintain a healthy, positive environment.
 - **Updates & News**: Stay ahead of the curve with the latest gaming news, updates, and announcements. Never miss a release or important patch again.
 - **User Reviews**: Read and write game reviews, rate your favorite (or least favorite) games, and help fellow gamers find the best titles.
 
-## Getting Started
+## Getting Started ✨
 
 To start using **Game Hub**, follow these simple steps:
 
