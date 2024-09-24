@@ -3,7 +3,7 @@
 Welcome to the Game Hub! Your one-stop destination for all things gaming, featuring a collection of games, resources, and community features to enhance your experience.
 
 ## Features
-Deployed Site address: [Game Hub](https://game-haosz6fqj-jalaj07s-projects.vercel.app/)
+Deployed Site address: [Game Hub](https://game-hub-jalaj.vercel.app/)
 
 - **Game Library**: Discover a variety of games across different genres.
 - **Community Forum**: Connect with gamers, share tips, and discuss strategies.
